@@ -1,0 +1,42 @@
+name: "Daniel Hansen"
+role: "Embedded Software Engineer"
+summary: |
+  7 years building firmware and embedded systems. Strong in C/C++, Linux, optimization.
+ambitions: |
+  Move into product-facing engineering roles in sustainable tech or AI robotics.
+skills:
+- C++
+- Embedded Linux
+- Device drivers
+- CI/CD
+preferred_locations:
+- Denmark
+- Netherlands
+- Remote (EU)
+work_preferences:
+max_commute_km: 40
+remote_ok: true
+languages:
+- English
+- Danish
+personality: "Analytical, modest, proactive"
+cv_master_path: "master_cv.md"
+cover_template_path: "cover_template.md"
+contacts:
+- linkedin: "https://www.linkedin.com/in/yourprofile"
+- email: "you@example.com"
+
+
+filter_rules:
+min_salary_eur: 50000
+allowed_contracts:
+- permanent
+- contract
+max_weekly_hours: 40
+
+
+scoring_weights:
+skills_match: 0.5
+experience_level: 0.25
+location: 0.1
+ambition_alignment: 0.15
